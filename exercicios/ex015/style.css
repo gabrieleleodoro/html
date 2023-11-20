@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+     background-color: aquamarine;
+     font-family: cursive;
+     font-size: 20px;
+ }
+ h1 {
+     color: chocolate;
+     background-color: azure;
+ }
+ h2 {
+     color: crimson;
+ }
